@@ -1,6 +1,6 @@
-# Dan Greinke's Github Page
+# Integer Recipes
 
-My personal website
+A site to collect recipes that me and my wife adjusted to use whole containers of ingredients. The motivation is to avoid pantry clutter and minimize food waste.
 
 # Syntax for Reference
 

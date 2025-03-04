@@ -12,7 +12,7 @@ We have a few exceptions to this integer rule for practicality. These exceptions
 
 # Current Integer Recipes
 
-* [Pasta Aglio e Olio](./past_aglio_e_olio.html).
+* [Pasta Aglio e Olio](./pasta_aglio_e_olio.html).
 
 ## Integer-ized Ingredients
 Ingredients that we typically try to integer-ize:
