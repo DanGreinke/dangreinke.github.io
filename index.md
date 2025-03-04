@@ -12,6 +12,7 @@ We have a few exceptions to this integer rule for practicality. These exceptions
 
 # Current Integer Recipes
 
+* [Brownies One Bowl](./brownies_one_bowl.html)
 * [Pasta Aglio e Olio](./pasta_aglio_e_olio.html).
 
 ## Integer-ized Ingredients
