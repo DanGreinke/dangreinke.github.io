@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Integer Recipes
+# About
+
+Dan and Rebecca had the problem of accumulating unused ingredients in our pantry. A half used can of tomato paste, a jar of capers from that one time we needed the juice for something, half a lemon on our countertop. To solve this problem, we started simplifying our recipes to avoid that accumulation of partially used ingredients.
 
 These are recipes that we’ve scaled up or modified slightly so that they use up ingredients in the units that they are typically sold in at supermarkets. For example, no using up 1.5 cans of tomatoes - instead we change the recipe to use an integer number of cans, 1 or 2. We want to avoid having that half-can of something go bad in the back of the fridge, buying a huge bunch of herbs just to use a few tiny leaves, or having that awkward 4 oz of pasta sitting at the back of the pantry.
 

@@ -1,7 +1,7 @@
-title: Minimal theme
+title: Integer Recipes
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Dan and Rebecca's Recipe collection
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
 
