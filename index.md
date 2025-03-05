@@ -14,9 +14,15 @@ We have a few exceptions to this integer rule for practicality. These exceptions
 
 # Current Integer Recipes
 
-* [Brownies One Bowl](./brownies_one_bowl.html)
-* [Pasta Aglio e Olio](./pasta_aglio_e_olio.html).
-* [Ribollita](./ribollita.html)
+*   [Brownies One Bowl](./brownies_one_bowl.html)
+*   [Mac & Cheese](./mac_n_cheese.html)
+*   [Pasta Aglio e Olio](./pasta_aglio_e_olio.html)
+*   [Ribollita](./ribollita.html)
+*   [Scottish Shortbread](./scottish_shortbread.html)
+*   [Spaghetti Sauce](./spaghetti_sauce.html)
+*   [Spinach and Tangerine Salad](./spinach_and_tangerine_salad.html)
+*   [Vegetarian Pot Pie](./vegetarian_pot_pie.html)
+*   [West African Peanut Soup](./west_african_peanut_soup.html)
 
 ## Integer-ized Ingredients
 Ingredients that we typically try to integer-ize:
