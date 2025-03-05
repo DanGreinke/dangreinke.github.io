@@ -16,6 +16,7 @@ We have a few exceptions to this integer rule for practicality. These exceptions
 
 * [Brownies One Bowl](./brownies_one_bowl.html)
 * [Pasta Aglio e Olio](./pasta_aglio_e_olio.html).
+* [Ribollita](./ribollita.html)
 
 ## Integer-ized Ingredients
 Ingredients that we typically try to integer-ize:
